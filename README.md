@@ -13,3 +13,9 @@
 ## Azure Service Bus
 
 ![Azure Service Bus](https://github.com/LuisiitoDev/WisdomPetMedicine/assets/79773016/320d8630-6211-4c83-9069-52d1c1287f3a)
+
+| Topic       | Subscription |
+|-------------|--------------|
+| pet-flagged-for-adoption     | pet-flagged-for-adoption |
+| pet-transferred-to-hospital     | pet-transferred-to-hospital |
+
