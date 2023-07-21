@@ -9,3 +9,6 @@
 - Azure Functions Core Tools
 - Dacker for Windows
 - SQL Server Management Studio
+
+## Event-driven Architecture
+![Event](https://github.com/LuisiitoDev/WisdomPetMedicine/assets/79773016/0c0ddf02-cd6b-4520-9aae-be9fd142eb4a)
